@@ -1,6 +1,4 @@
 # Импортируем необходимые классы.
-import base64
-import io
 import os
 import logging
 from telegram.ext import Application, MessageHandler, filters, CallbackContext
